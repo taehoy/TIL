@@ -5,3 +5,6 @@
 
 ## codingtest
 - [배열 메서드 모음](https://github.com/taehoy/TIL/blob/main/codingtest/%EB%B0%B0%EC%97%B4%20%EB%A9%94%EC%84%9C%EB%93%9C%20%EB%AA%A8%EC%9D%8C.md)
+
+## algorithm
+- [투포인터](https://github.com/taehoy/TIL/blob/main/algorithm/%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0.md)
